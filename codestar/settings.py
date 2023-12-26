@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     # 'cloudinary_storage',
     'django.contrib.staticfiles',
-    # 'cloudinary',
+    'cloudinary',
     'blogforum.apps.BlogforumConfig',
     'registration.apps.RegistrationConfig',
     'baton.autodiscover',
