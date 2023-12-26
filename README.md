@@ -137,11 +137,11 @@ The Logo is just a simple text using MavenPro as the font
 
 - Desktop Homepage Top Wireframe
 
-![Desktop Homepage Wireframe](documentation/wireframes/Wireframe1.png)
+![Desktop Wireframe 1](documentation/wireframes/Wireframe1.png)
 
 - Desktop Post Footer Wireframe
 
-![Desktop Post Detail Wireframe](documentation/Images/Wireframe2.png)
+![Desktop Wireframe 2](documentation/Images/Wireframe2.png)
 
 ## Flow Diagram
 
