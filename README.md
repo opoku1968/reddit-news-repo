@@ -267,7 +267,7 @@ This project was designed using Agile methodology, utilising the Project Board a
 
 # Testing
 
-As each section or Function/Model was built during this , I was testing for functionality and styling issues that may have arisen (see table below), which were corrected or fixed before continuing. I also had friends test the site by signing up, adding and deleting comments using various devices on varying platforms (IOS, Android, Mobile, Tablet etc) and reporting back any issues they encountered with functionality or styling.
+As each section or Function/Model was built during this , I was testing for functionality and styling issues that may have arisen (see table below), which were corrected or fixed before continuing. I also had friends test the site by signing up, adding and deleting comments using various devices on varying platforms (IOS, Android, Mobile, Tablet etc) and reporting back an issues they encountered with functionality or styling.
 
 ## Manual Testing
 
