@@ -91,9 +91,9 @@ My  objectives were:
 
 By focusing on these user goals, the Reddit News Web App aims to provide an inclusive, informative, and enjoyable platform for individuals seeking a diverse and engaging online community.
 
-<!-- - ### Store data on an external cloud database
+- ### Store data on an external cloud database
 
-  I used ElephantSQL to store the PostgreSQL database for this project. -->
+  I used ElephantSQL to store the PostgreSQL database for this project.
 
 ___
 
