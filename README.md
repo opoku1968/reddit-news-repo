@@ -320,6 +320,7 @@ Python Files Tested:
 - forms
 - views
 - urls
+- manage
 
 ___
 
