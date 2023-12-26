@@ -137,7 +137,7 @@ The Logo is just a simple text using MavenPro as the font
 
 - Desktop Homepage Top Wireframe
 
-![Desktop Homepage Wireframe](documentation/wireframes/Wirefran1.png)
+![Desktop Homepage Wireframe](documentation/wireframes/Wireframe1.png)
 
 - Desktop Post Footer Wireframe
 
