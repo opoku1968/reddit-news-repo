@@ -155,7 +155,7 @@ The Logo is just a simple text using MavenPro as the font
 
 Here is a diagram showing the possible flow through the site. There are 2 sections shown here. On the left it shows the Admin and the right shows a site user.
 
-![Site Flow Diagram](documentation/Images/site_flow_diagram.png)
+![Site Flow Diagram](documentation/Images/flow%20chart.png)
 
 ## Database Plan
 
