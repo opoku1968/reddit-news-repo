@@ -321,6 +321,7 @@ Python Files Tested:
 - views
 - urls
 - manage
+- settings
 
 ___
 
