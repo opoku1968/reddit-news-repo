@@ -135,21 +135,13 @@ The Logo is just a simple text using MavenPro as the font
 
 ## Wireframes
 
-- Mobile Homepage Wireframe
-
-![Mobile Homepage Wireframe](/documentation/wireframes/mobile_homepage_wireframe.png)
-
-- Mobile Post Detail Wireframe
-
-![Mobile Post Detail Wireframe](documentation/wireframes/mobile_post_detail_wireframe.png)
-
-- Desktop Homepage Wireframe
+- Desktop Homepage Top Wireframe
 
 ![Desktop Homepage Wireframe](documentation/wireframes/desktop_homepage_wireframe.png)
 
-- Desktop Post Detail Wireframe
+- Desktop Post Footer Wireframe
 
-![Desktop Post Detail Wireframe](documentation/wireframes/desktop_postdetail_wireframe.png)
+![Desktop Post Detail Wireframe](documentation/Images/Wireframe2.png)
 
 ## Flow Diagram
 
