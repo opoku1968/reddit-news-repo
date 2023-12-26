@@ -129,7 +129,7 @@ The colour scheme used for this project was based on the colors from Code Instit
 
 The main font used is Nunito Sans, but MavenPro was used for the texts on the header
 
-## Logo and Favicon
+## Logo 
 
 The Logo is just a simple text using MavenPro as the font
 
