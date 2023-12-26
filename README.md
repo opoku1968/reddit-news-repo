@@ -174,7 +174,7 @@ The user can Sign up
 
 ## Comment on Blog Posts.
 
-*Also shown here is the trashcan which allows users to upvote or downvote*
+*Also shown here is the feature that allows users to upvote or downvote*
 
 ![Comment on Blog Posts](documentation/Images/comment.png)
 
