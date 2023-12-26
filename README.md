@@ -188,7 +188,7 @@ The user can Sign up
 
 
 ## Subreddit Selection
-Users can choose their favorite subreddits to customize their news feed. The application supports a wide range of subreddits, allowing users to stay informed about topics that interest them the most.
+Users can choose their favorite subreddits to customize their news feed. The application supports a wide range of subreddits, allowing users to stay informed about topics that interest them .
 
 ## News Feed
 
