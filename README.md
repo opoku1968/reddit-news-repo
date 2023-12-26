@@ -261,7 +261,7 @@ These are the technologies used in building this project:
 
 # Agile
 
-This project was designed using Agie methodology, utilising the Project Board and Issues sections in GitHub
+This project was designed using Agile methodology, utilising the Project Board and Issues sections in GitHub
 
 <!-- - [Project Board](https://github.com/users/markdaniel1982/projects/4/views/1) -->
 
