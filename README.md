@@ -278,7 +278,7 @@ As each section or Function/Model was built during this , I was testing for func
 | Create Account | Created successfully | Pass |
 | Login | Login Successful | Pass |
 | Logout | Logout Successful | Pass |
-| Read Full Blog Post | PostDetail page loaded successfully | Pass |
+| Read Full Blog Post | PostDetail page loaded successfuly | Pass |
 | Add Comment under Blogpost | Comment Added Successfully | Pass |
 | Upvote Comment | Comment Upvoted | Pass |
 | Downvote Comment | Comment Downvoted | Pass |
