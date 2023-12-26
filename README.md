@@ -410,10 +410,5 @@ John Elder on the [Codemy](https://www.youtube.com/@Codemycom) youtube channel
 
 For help with manual testing:
 
-- Liz Mayhew
-- Tom Mayhew
-- Nush
-- Marie Daniel
-- Hannah Cook
-- Thomas Spåre
-- Shubham Sinha
+- Kwadwo Pobi Aning
+- 
