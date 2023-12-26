@@ -9,7 +9,7 @@ A web application that allows users to view and interact with news content in a 
 
 It is a fullstack blog site that allows users to read blog posts, create an account and comment on the posts.
 
-<!-- Link to live site - [https://md82p4blog.herokuapp.com/](https://md82p4blog.herokuapp.com/) -->
+Link to live site 
 
 ## CONTENTS
 
