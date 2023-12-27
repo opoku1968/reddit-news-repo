@@ -402,9 +402,7 @@ ___
 
 ## Acknowledgments and Thanks
 
-Sean & Oisin at Code Institute's tutor support for the help and guidance with my code-related brain melts.
-
-Rebecca at Code Institute's tutor support for the database reset guidance.
+Kwadwo Pobi Aning for help with the code related issues 
 
 John Elder on the [Codemy](https://www.youtube.com/@Codemycom) youtube channel
 
