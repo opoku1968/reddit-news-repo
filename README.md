@@ -26,8 +26,7 @@ Link to live site - [https://reddit-web-b702997b883c.herokuapp.com/](https://red
   - [Typography](#typography)
   - [Logo and Favicon](#logo-and-favicon)
   - [Wireframes](#wireframes)
-  - [Flow Diagram](#flow-diagram)
-  - [Database Plan](#database-plan)
+
 - [Features](#features)
   - [Registration](#registration)
   - [Future Features](#future-features)
