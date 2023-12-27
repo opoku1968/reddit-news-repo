@@ -49,7 +49,6 @@ Link to live site - [https://reddit-web-b702997b883c.herokuapp.com/](https://red
     - [Repository deployment via Heroku](#repository-deployment-via-heroku)
     - [Deployment of the app](#deployment-of-the-app)
   - [Credits](#credits)
-  - [Media](#media)
   - [Acknowledgments and Thanks](#acknowledgments-and-thanks)
 
 ___
@@ -334,7 +333,7 @@ To create a clone you do the following;
 
 1. Click on the code tab, left of the Gitpod tab
 2. To the right of the repository name, click the clipboard icon
-3. In the IED open GitBash
+3. In the IDE open GitBash
 4. Change the working directory to the location you prefer
 5. Add Git Clone with the copy of the repository name
 6. Clone has been created
