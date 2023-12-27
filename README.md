@@ -137,23 +137,13 @@ The Logo is just a simple text using MavenPro as the font
 
 - Desktop Homepage Top Wireframe
 
-![Desktop Wireframe 1](documentation/wireframes/Wireframe1.png)
+![Desktop Wireframe 1](documentation/Images/Wireframe1.png)
 
 - Desktop Post Footer Wireframe
 
 ![Desktop Wireframe 2](documentation/Images/Wireframe2.png)
 
-## Flow Diagram
 
-Here is a diagram showing the possible flow through the site. There are 2 sections shown here. On the left it shows the Admin and the right shows a site user.
-
-![Site Flow Diagram](documentation/Images/flow%20chart.png)
-
-## Database Plan
-
-The database plan is fairly simple, but it shows the information that is stored within the database, the type of data and if it is logged as a Primary or Foreign key where applicable.
-
-![Database plan](documentation/Images/database_plan.png)
 
 # Features
 
@@ -253,9 +243,8 @@ These are the technologies used in building this project:
 
 # Agile
 
-This project was designed using Agile methodology, utilising the Project Board and Issues sections in GitHub
+This project was designed using Agile methodology
 
-<!-- - [Project Board](https://github.com/users/markdaniel1982/projects/4/views/1) -->
 
 # Testing
 
@@ -289,9 +278,6 @@ At different points throughout this project, I encountered various bugs involvin
 
 Using Lighthouse these were the scores obtained
 
-Mobile
-
-![Lighthouse Mobile Score](documentation/Images/lighthouse_mobile.png)
 
 Desktop
 
@@ -386,17 +372,12 @@ For inspiration and fine-tuning of my code, I referred to John Elder's youtube c
 
 The Readme layout was based on the example by [Kera Cudmore - Readme Examples](https://github.com/kera-cudmore/readme-examples/blob/main/README.md?plain=1) and [Sdalsosa - Readme](https://github.com/Sdalsosa/ComposerHub/blob/main/README.md)
 
-The wireframe mockups were created using [Figma](https://https://www.figma.com/)
+The mockups were created using [Figma](https://https://www.figma.com/)
 
 Once complete, the readme file was passed through a spelling and grammar check via [Grammarly](https://www.grammarly.com/)
 
 ___
 
-## Media
-
-For placeholder Images when no image is uploaded to blog post, I have used [picsum](https://picsum.photos/) which provides a library of stock Images that display as a placeholder.
-
-All other content and Images are my own.
 
 ___
 
